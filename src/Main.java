@@ -5,4 +5,8 @@ public class Main {
         int b = 5;
         System.out.println(a + b);
     }
+
+    public static void sort() {
+        return;
+    }
 }
